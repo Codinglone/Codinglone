@@ -63,8 +63,4 @@
 <a href="mailto:codinglone@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codinglone@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<img
-  src="https://github.com/Codinglone/Codinglone/images.png"
-  alt="Wakatime Stats"
-/>
 
