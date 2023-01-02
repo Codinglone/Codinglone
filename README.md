@@ -64,7 +64,7 @@
 </p>
 
 <img
-  src="https://github.com/Codinglone/Codinglone/blob/main/images/stat.svg"
+  src="https://github.com/Codinglone/Codinglone/images.png"
   alt="Wakatime Stats"
 />
 
