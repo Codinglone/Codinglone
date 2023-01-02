@@ -62,3 +62,9 @@
 <a href="https://www.instagram.com/codinglone_250/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-codinglone_250-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:codinglone@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codinglone@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<img
+  src="https://github.com/Codinglone/Codinglone/blob/main/images/stat.svg"
+  alt="Wakatime Stats"
+/>
+
