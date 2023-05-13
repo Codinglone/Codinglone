@@ -120,21 +120,10 @@ Java                     6 repos             ██░░░░░░░░░�
 ```
 
 **My Github Metrics**
-<!-- <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true" />
-</picture> -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&count_private=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=false&theme=transparent&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&count_private=true&hide=prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Last Updated on 13/05/2023 05:03:12 UTC
