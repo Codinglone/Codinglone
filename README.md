@@ -36,7 +36,7 @@ const NIYOKWIZERWA_Fabrice = {
 
         devOps: ["AWS", "Docker🐳","Kubernetes", "Nginx"],
         databases: ["mongo", "MySql", "PostGresql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "SuiteApp", "Wordpress"],
+        misc: ["Firebase", "Socket.IO", "Wordpress"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
