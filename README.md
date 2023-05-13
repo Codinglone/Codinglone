@@ -1,66 +1,126 @@
-<br>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi🙏🏻, I'm NIYOKWIZERWA Fabrice! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<h2> Hey there! I'm Fabrice NIYOKWIZERWA .</h2>
+### 📫 Like to meet me?
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying in Bachelors of Science in Software Engineering at Kigali Independent University(ULK).
-- 💼 &nbsp; Interested in Full-Stack Web Development(Backend Development Specialization) and Mobile App Development using React Native.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Software Testing.
-- ✍️ &nbsp; Pursuing Software Engineering and Blog Writing as hobbies/side hustles.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
-  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![TailwindCss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwindcss)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  [![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAYCAYAAAAYl8YPAAAACXBIWXMAAAAkAAAAJAGHsLAiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAoNJREFUOI2NlU9IVFEUxr9z79NZmAUubFG0ChPLeQMFQS4i0laFC7N/REGZlRWEKZKVTC3SCFMjMhNy1FaOg9XSN2a0aiHRDJgjUhSBBpZaU1A4c08LR3059zlzdu98h9/53ne57xHSrPJRzpyNcYDA+zUyM3DBSBc0F2O/EwiES0G3bJepQNtHOEMQ+wEu1ekE1FmmbAWAVZ2V97Gcy1A9DGhBzLhqeeTdxWexKmiL6gVwxGHkWtAjm+wNLay8j+VsnuoGcFSLYTRYpry9sp2UmZdZTMSVjwjHdRwCbloeeUun/Q9jJiOkHhHhlNYR0GyZst5BA9lBJWH1EMA53SAzWoIeWe0EAhYzY6bisHrgBALQlgq04IyZSkLqPggXHax3DrrFWRBxKphRElYtTiAQOgYLxXkQccJ9PcB79CjZbjDwiXQao6vILaqshKPisKoBcMIe89JOwhPLTQERNGUrGFdW6N1FpqjwEikAKA7FawFU6HfCZ7nlHSBxAJZH3mOgNrHHPz+zDCrwvbf+Rn/fACvNC6ieIVM2Lqdiq32h2MF143LAf4jiAFDYE3mWvTG3FABkphF1ZWdN2Sz1BU3RYD8YbVwAsK030r92Q26ZvSddxk/XmqyvBBWwBozr8C64XxWW7xurzNm0vkOn/Zicfjf6PG8H/Avu7aW96JGT+Z2/pr4Pr+xPj3/G2MBrj1CdHQAnGdF/gog4fGzz3ujkt1eLrZkPX/Dx5QgABoDToiwZ6JgZAICZCp9Ghuf/xHZPDL4Bq6RL0KYClZfTgyWAxuGuRhWP1TlMtKhAZXV6sESJssdNAPRAombVf6Ym5Q9lyeDYiyHa+jYHwE6NvIsKDoh/P0T0VGjgES8AAAAASUVORK5CYII=)](https://flutter.dev/)
-  ![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel)
-  ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=PostgreSql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=WebStorm)
-  ![SublimeText](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=SublimeText)
-- 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
-  ![Framer](https://img.shields.io/badge/-Framer-333333?style=flat&logo=Framer)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
+<a href="https://calendly.com/codinglone/one-to-one" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
-<br/>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+```javascript
+const NIYOKWIZERWA_Fabrice = {
+    email: "codinglone@gmail.com",
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev", "mobile dev", "app dev"],
+    technologies: {
+        frontend:{
+            js:["React", "Next js"],
+            testing: ["Jest", "Cypress"]
+        },
+        backEnd: {
+            js: ["Node", "Fastify", "Express","Nest js", "REST APIs"],
+            python: ["Django", "Django_rest_framework"],
+        },
+        mobileApp: {
+            native: ["Android Development","Ios Development"],
+            tech: {
+                    js: ["React Native"]
+        },
 
-<p align="center">
-<a href="https://www.linkedin.com/in/fabrice-niyokwizerwa-a8402225a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NIYOKWIZERWA Fabrice-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/codinglone_250/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-codinglone_250-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:codinglone@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-codinglone@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+        devOps: ["AWS", "Docker🐳","Kubernetes", "Nginx"],
+        databases: ["mongo", "MySql", "PostGresql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "SuiteApp", "Wordpress"],
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%2040%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-929-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 43 Contributions in the Year 2022
+ > 
+> 📦 181.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 26 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    1019 commits    ███░░░░░░░░░░░░░░░░░░░░░░   24.91% 
+🌆 Daytime    1827 commits    ██████████░░░░░░░░░░░░░░░   44.22% 
+🌃 Evening    1072 commits    ████████░░░░░░░░░░░░░░░░░   26.21% 
+🌙 Night      172 commits     ███░░░░░░░░░░░░░░░░░░░░░░   4.2%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       840 commits    ████░░░░░░░░░░░░░░░░░░░░░░   20.54% 
+Tuesday      930 commits    ██████░░░░░░░░░░░░░░░░░░░░   22.74% 
+Wednesday    906 commits    █████░░░░░░░░░░░░░░░░░░░░░   22.15% 
+Thursday     619 commits    ███░░░░░░░░░░░░░░░░░░░░░░░   15.13%
+Friday       550 commits    ██░░░░░░░░░░░░░░░░░░░░░░░░   13.44% 
+Saturday     125 commits    █░░░░░░░░░░░░░░░░░░░░░░░░░    3.06% 
+Sunday       120 commits    █░░░░░░░░░░░░░░░░░░░░░░░░░    2.93%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Central Africa Time(GMT+2) Time in Kigali/Rwanda
+
+💬 Programming Languages: 
+Javascript                     1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   42.84% 
+Java               1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.84% 
+Shell                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
+
+🔥 Editors: 
+VS Code           4 hrs 59 mins       ██████████████░░░░░░░░░░░   59.25% 
+Andorid Studio                 3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.75%
+
+💻 Operating System: 
+Mac                      8 hrs 26 mins       █████████████████████████   40.75
+Linux          4 hrs 59 mins       ██████████████░░░░░░░░░░░   59.25% 
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               30 repos            ████████████░░░░░░░░░░░░░   49.25% 
+React & React Native                      12 repos             ███░░░░░░░░░░░░░░░░░░░░░░   27.94% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+
+```
+
+
+
+ Last Updated on 13/05/2023 05:03:12 UTC
+<!--END_SECTION:waka-->
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
