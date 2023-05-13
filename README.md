@@ -79,9 +79,9 @@ const NIYOKWIZERWA_Fabrice = {
 
 ```text
 Monday       840 commits    ████░░░░░░░░░░░░░░░░░░░░░░   20.54% 
-Tuesday      930 commits    ██████░░░░░░░░░░░░░░░░░░░░   22.74% 
+Tuesday     619 commits    ███░░░░░░░░░░░░░░░░░░░░░░░   15.13%
 Wednesday    906 commits    █████░░░░░░░░░░░░░░░░░░░░░   22.15% 
-Thursday     619 commits    ███░░░░░░░░░░░░░░░░░░░░░░░   15.13%
+Thursday      930 commits    ██████░░░░░░░░░░░░░░░░░░░░   22.74% 
 Friday       550 commits    ██░░░░░░░░░░░░░░░░░░░░░░░░   13.44% 
 Saturday     125 commits    █░░░░░░░░░░░░░░░░░░░░░░░░░    3.06% 
 Sunday       120 commits    █░░░░░░░░░░░░░░░░░░░░░░░░░    2.93%
