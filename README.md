@@ -120,7 +120,7 @@ Java                     6 repos             ██░░░░░░░░░�
 ```
 
 **My Github Metrics**
-<picture>
+<!-- <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -130,7 +130,8 @@ Java                     6 repos             ██░░░░░░░░░�
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true" />
-</picture>
+</picture> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
