@@ -127,10 +127,12 @@ Java                     6 repos             ██░░░░░░░░░�
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Last Updated on 13/05/2023 05:03:12 UTC
