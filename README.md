@@ -131,9 +131,10 @@ Java                     6 repos             ██░░░░░░░░░�
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true" />
 </picture> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&count_private=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Last Updated on 13/05/2023 05:03:12 UTC
