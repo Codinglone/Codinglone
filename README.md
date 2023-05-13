@@ -119,17 +119,17 @@ Java                     6 repos             ██░░░░░░░░░�
 
 ```
 
-**My WakaTime Metrics**
+**My Github Metrics**
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/waka_23633bd2-ddd4-4476-81eb-e0c8d99e6f5f?username=Codinglone&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/waka_23633bd2-ddd4-4476-81eb-e0c8d99e6f5f?username=codinglone&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?Codinglone=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/waka_23633bd2-ddd4-4476-81eb-e0c8d99e6f5f?@codinglone=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?Codinglone=anuraghazra&show_icons=true" />
 </picture>
 
 
