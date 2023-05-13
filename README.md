@@ -20,12 +20,13 @@ const NIYOKWIZERWA_Fabrice = {
     askMeAbout: ["web dev", "mobile dev", "app dev"],
     technologies: {
         frontend:{
-            js:["React", "Next js"],
+            js:["React", "Next js", "Redux", "RTK"],
             testing: ["Jest", "Cypress"]
         },
         backEnd: {
-            js: ["Node", "Fastify", "Express","Nest js", "REST APIs"],
+            js: ["Node", "Fastify", "Express","Nest js", "REST APIs", "ORMs"],
             python: ["Django", "Django_rest_framework"],
+            caching: ["Redis"]
         },
         mobileApp: {
             native: ["Android Development","Ios Development"],
