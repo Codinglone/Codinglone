@@ -121,7 +121,7 @@ Java                     6 repos             ██░░░░░░░░░�
 
 **My WakaTime Metrics**
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/waka_5a729a2d-ff77-4848-8042-f98d6ef9196d/pin/?username=Codinglone&repo=Codinglone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/waka_5a729a2d-ff77-4848-8042-f98d6ef9196d/pin/?username=codinglone&repo=Codinglone" />
 </a>
 
 
