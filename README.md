@@ -120,10 +120,11 @@ Java                     6 repos             ██░░░░░░░░░�
 ```
 <!--START_SECTION:waka-->
 ```text
-WakaTime Stats for <your codinglone>
+WakaTime Stats for codinglone
 <!--START_SECTION:waka_api-->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codinglone&api_key=waka_5a729a2d-ff77-4848-8042-f98d6ef9196d&layout=compact&hide_border=true)](https://wakatime.com/codinglone)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codinglone&api_key=waka_5a729a2d-ff77-4848-8042-f98d6ef9196d&layout=compact&hide_border=true)](https://wakatime.com/@codinglone)
 <!--END_SECTION:waka_api-->
+
 
 
 
