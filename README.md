@@ -145,6 +145,25 @@ Java                     6 repos             ██░░░░░░░░░�
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Codinglone&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/Codinglone)
 <hr>
 
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Codinglone}/count.svg" /></p> 
+<br></div>
+
+<!-- START NEW SECTION -->
+<div align="center">
+ <br>
+ <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+</div>
+
 
  Last Updated on 13/05/2023 05:03:12 UTC
 <!--END_SECTION:waka-->
