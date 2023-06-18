@@ -125,6 +125,17 @@ Java                     6 repos             ██░░░░░░░░░�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- START NEW SECTION -->
+<p align="center">
+<!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire) -->
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Cyebukayire&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/Cyebukayire)
+<hr>
+
 
  Last Updated on 13/05/2023 05:03:12 UTC
 <!--END_SECTION:waka-->
