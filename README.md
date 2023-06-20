@@ -34,7 +34,7 @@ const NIYOKWIZERWA_Fabrice = {
                     js: ["React Native"]
         },
 
-        devOps: ["AWS", "Docker🐳","Kubernetes", "Nginx"],
+        devOps: ["AWS", "Docker🐳","Kubernetes", "Nginx", "Kafka"],
         databases: ["mongo", "MySql", "PostGresql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Wordpress"],
     },
