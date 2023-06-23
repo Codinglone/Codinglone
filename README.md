@@ -1,7 +1,11 @@
-```
-## Hi there, I'm NIYOKWIZERWA Fabrice! 👋
+Certainly! Here's an enhanced version of the code with improved colors, arrangements, and UI patterns:
 
-I'm an experienced Full Stack Software Engineer. I love building robust and scalable web and mobile applications. Here are a few things about me:
+```
+<h2 align="center">Hi there, I'm NIYOKWIZERWA Fabrice! 👋</h2>
+
+<p align="center">I'm an experienced Full Stack Software Engineer with a passion for building robust and scalable web and mobile applications.</p>
+
+<h3 align="center">About Me</h3>
 
 ```javascript
 const NIYOKWIZERWA_Fabrice = {
@@ -35,21 +39,25 @@ const NIYOKWIZERWA_Fabrice = {
 
 ---
 
-### 📫 Want to meet and chat?
+<h3 align="center">Let's Connect!</h3>
 
-I'd love to connect with you and discuss anything related to software development, web/mobile app development, or your project requirements. Please schedule a meeting with me using the link below:
+<p align="center">I'd love to connect with you and discuss anything related to software development, web/mobile app development, or your project requirements. Please schedule a meeting with me using the link below:</p>
 
-[![Schedule a Meeting](https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png)](https://calendly.com/codinglone/one-to-one)
+<p align="center"><a href="https://calendly.com/codinglone/one-to-one" target="_blank"><img src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" alt="Schedule a Meeting"></a></p>
 
 ---
 
-## My GitHub Stats
+<h3 align="center">My GitHub Stats</h3>
 
-![NIYOKWIZERWA Fabrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=dark&hide_title=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=dracula&hide_title=true&count_private=true" alt="NIYOKWIZERWA Fabrice's GitHub stats">
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Codinglone)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=dracula&layout=compact&hide_title=true" alt="Top Languages">
+</p>
 
-Last Updated: 24th June 2023
+<p align="center">Last Updated: 24th June 2023</p>
 ```
 
-You can copy the entire code and paste it into your GitHub README file.
+Feel free to copy the entire code and paste it into your GitHub README file.
