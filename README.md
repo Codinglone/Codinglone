@@ -4,37 +4,34 @@
 
 <h3 align="center">About Me</h3>
 
-<pre>
-<code>
-<font color="#e6d6f5"><b>const</b></font> NIYOKWIZERWA_Fabrice = {
-    <font color="#9cdcfe"><b>email:</b></font> <font color="#dcdcaa">"codinglone@gmail.com",</font>
-    <font color="#9cdcfe"><b>pronouns:</b></font> <font color="#dcdcaa">"He" | "Him",</font>
-    <font color="#9cdcfe"><b>code:</b></font> [<font color="#ce9178">"JavaScript", "Python"</font>],
-    <font color="#9cdcfe"><b>askMeAbout:</b></font> [<font color="#ce9178">"web development", "mobile app development", "software architecture"</font>],
-    <font color="#9cdcfe"><b>technologies:</b></font> {
-        <font color="#9cdcfe"><b>frontend:</b></font> {
-            <font color="#9cdcfe"><b>js:</b></font> [<font color="#ce9178">"React", "Next.js", "Redux", "RTK"</font>],
-            <font color="#9cdcfe"><b>testing:</b></font> [<font color="#ce9178">"Jest", "Cypress"</font>]
+```javascript
+const NIYOKWIZERWA_Fabrice = {
+    email: "codinglone@gmail.com",
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "Python"],
+    askMeAbout: ["web development", "mobile app development", "software architecture"],
+    technologies: {
+        frontend: {
+            js: ["React", "Next.js", "Redux", "RTK"],
+            testing: ["Jest", "Cypress"]
         },
-        <font color="#9cdcfe"><b>backend:</b></font> {
-            <font color="#9cdcfe"><b>js:</b></font> [<font color="#ce9178">"Node.js", "Express", "Nest.js", "REST APIs", "ORMs"</font>],
-            <font color="#9cdcfe"><b>python:</b></font> [<font color="#ce9178">"Django", "Django Rest Framework"</font>],
-            <font color="#9cdcfe"><b>caching:</b></font> [<font color="#ce9178">"Redis"</font>]
+        backend: {
+            js: ["Node.js", "Express", "Nest.js", "REST APIs", "ORMs"],
+            python: ["Django", "Django Rest Framework"],
+            caching: ["Redis"]
         },
-        <font color="#9cdcfe"><b>mobileApp:</b></font> {
-            <font color="#9cdcfe"><b>native:</b></font> [<font color="#ce9178">"Android Development", "iOS Development"</font>],
-            <font color="#9cdcfe"><b>js:</b></font> [<font color="#ce9178">"React Native"</font>]
+        mobileApp: {
+            native: ["Android Development", "iOS Development"],
+            js: ["React Native"]
         },
-        <font color="#9cdcfe"><b>devOps:</b></font> [<font color="#ce9178">"AWS", "Docker", "Kubernetes", "Nginx", "Kafka"</font>],
-        <font color="#9cdcfe"><b>databases:</b></font> [<font color="#ce9178">"MongoDB", "MySQL", "PostgreSQL", "SQLite"</font>],
-        <font color="#9cdcfe"><b>misc:</b></font> [<font color="#ce9178">"Firebase", "Socket.IO", "WordPress"</font>]
+        devOps: ["AWS", "Docker", "Kubernetes", "Nginx", "Kafka"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
+        misc: ["Firebase", "Socket.IO", "WordPress"]
     },
-    <font color="#9cdcfe"><b>architecture:</b></font> [<font color="#ce9178">"Serverless Architecture", "Progressive Web Applications", "Single Page Applications"</font>],
-    <font color="#9cdcfe"><b>currentFocus:</b></font> <font color="#dcdcaa">"Exploring new technologies and improving user experiences",</font>
-    <font color="#9cdcfe"><b>funFact:</b></font> <font color="#dcdcaa">"There are two ways to write error-free programs; only the third one works"</font>
+    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: "Exploring new technologies and improving user experiences",
+    funFact: "There are two ways to write error-free programs; only the third one works"
 };
-</code>
-</pre>
 
 ---
 
