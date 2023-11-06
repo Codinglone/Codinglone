@@ -4,43 +4,8 @@
 
 <h3 align="center">About Me</h3>
 
-```java
-public class NIYOKWIZERWA_Fabrice {
-    private String email = "codinglone@gmail.com";
-    private String pronouns = "He" | "Him";
-    private String[] code = {"Java", "Python"};
-    private String[] askMeAbout = {"web development", "mobile app development", "software architecture"};
-    private Technologies technologies = new Technologies();
-    private String[] architecture = {"Serverless Architecture", "Progressive Web Applications", "Single Page Applications"};
-    private String currentFocus = "Exploring new technologies and improving user experiences";
-    private String funFact = "There are two ways to write error-free programs; only the third one works";
-
-    private class Technologies {
-        private Frontend frontend = new Frontend();
-        private Backend backend = new Backend();
-        private MobileApp mobileApp = new MobileApp();
-        private String[] devOps = {"AWS", "Docker", "Kubernetes", "Nginx", "Kafka"};
-        private String[] databases = {"MongoDB", "MySQL", "PostgreSQL", "SQLite"};
-        private String[] misc = {"Firebase", "Socket.IO", "WordPress"};
-    }
-
-    private class Frontend {
-        private String[] js = {"React", "Next.js", "Redux", "RTK"};
-        private String[] testing = {"Jest", "Cypress"};
-    }
-
-    private class Backend {
-        private String[] js = {"Node.js", "Express", "Nest.js", "REST APIs", "ORMs"};
-        private String[] python = {"Django", "Django Rest Framework"};
-        private String[] caching = {"Redis"};
-    }
-
-    private class MobileApp {
-        private String[] native = {"Android Development", "iOS Development"};
-        private String[] js = {"React Native"};
-    }
-}
-
+```
+I'm a Software Engineer in Rwanda, specializing in frontend development. I also explore fullstack development with Node JS, Firebase, and Supabase. Fun fact: I'm a Protagonist, a Gemini, and a Stoic, bringing charisma, adaptability, and calm to the tech world.
 ```
 
 <h3 align="center">Let's Connect!</h3>
