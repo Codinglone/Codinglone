@@ -4,9 +4,9 @@
 
 <h3 align="center">About Me</h3>
 
-```
+<p align="center">
 I'm a Software Engineer in Rwanda, specializing in frontend development. I also explore fullstack development with Node JS, Firebase, and Supabase. Fun fact: I'm a Protagonist, a Gemini, and a Stoic, bringing charisma, adaptability, and calm to the tech world.
-```
+</p>
 
 <h3 align="center">Let's Connect!</h3>
 
