@@ -13,8 +13,6 @@ I'm a Software Engineer in Rwanda, specializing in frontend development. I also 
 <p align="center">I'd love to connect with you and discuss anything related to software development, web/mobile app development, or your project requirements. Please schedule a meeting with me using the link below:</p>
 
 <p align="center"><a href="https://calendly.com/codinglone/one-to-one" target="_blank"><img src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" alt="Schedule a Meeting"></a></p>
-<code>cmd + del</code>
-<kbd>Ctrl + Alt + Delete</kbd>
 <!--
 **My Github Metrics**
 
