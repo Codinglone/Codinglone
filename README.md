@@ -26,7 +26,7 @@ I'm a Software Engineer in Rwanda, specializing in frontend development. I also 
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&hide_title=true)](https://github.com/Codinglone)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/Codinglone)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Codinglone&theme=transparent)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&hide_title=true)](https://github.com/Codinglone)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/Codinglone)|![Codinglone](https://github-readme-streak-stats.herokuapp.com/?user=Codinglone&theme=transparent)
 <hr>
 
 <!-- START NEW SECTION -->
@@ -35,7 +35,7 @@ I'm a Software Engineer in Rwanda, specializing in frontend development. I also 
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire) -->
+
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Codinglone&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/Codinglone)
 <hr>
