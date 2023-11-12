@@ -32,12 +32,6 @@ I'm a Software Engineer in Rwanda, specializing in frontend development. I also 
 
 <!-- START NEW SECTION -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Codinglone}/count.svg" /></p> 
-<br></div>
-
-<!-- START NEW SECTION -->
-<div align="center">
  <br>
  <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
  
