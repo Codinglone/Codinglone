@@ -1,7 +1,5 @@
 <h2 align="center">Hi there, I'm NIYOKWIZERWA Fabrice! 👋</h2>
 
-<p align="center">I'm an experienced Full Stack Software Engineer with a passion for building robust and scalable web and mobile applications.</p>
-
 <h3 align="center">About Me</h3>
 
 <p align="center">
