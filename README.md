@@ -29,16 +29,6 @@ I'm a Software Engineer in Rwanda, specializing in frontend development. I also 
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&hide_title=true)](https://github.com/Codinglone)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/Codinglone)|![Codinglone](https://github-readme-streak-stats.herokuapp.com/?user=Codinglone&theme=transparent)
 <hr>
 
-<!-- START NEW SECTION -->
-<p align="center">
-<!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
-  <h2 align="center">My Github Profile Trophy</h2>
-</p>
-
-
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Codinglone&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/Codinglone)
-<hr>
 
 <!-- START NEW SECTION -->
 <div align="center">
