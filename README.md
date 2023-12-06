@@ -14,7 +14,7 @@ I'm a Software Engineer in Rwanda, specializing in frontend development. I also 
 <!--
 **My Github Metrics**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&count_private=true)
+![Codinglone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&hide_progress=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -24,7 +24,7 @@ I'm a Software Engineer in Rwanda, specializing in frontend development. I also 
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&hide_title=true)](https://github.com/Codinglone)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/Codinglone)|![Codinglone](https://github-readme-streak-stats.herokuapp.com/?user=Codinglone&theme=transparent)
+|[![Codinglone's github stats](https://github-readme-stats.vercel.app/api?username=Codinglone&show_icons=true&theme=transparent&hide_title=true)](https://github.com/Codinglone)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/Codinglone)|![Codinglone](https://github-readme-streak-stats.herokuapp.com/?user=Codinglone&theme=transparent)
 <hr>
 
 
