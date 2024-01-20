@@ -3,7 +3,41 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-I'm a Software Engineer in Rwanda, specializing in frontend development. I also explore fullstack development with Node JS, Firebase, and Supabase. Fun fact: I'm a Protagonist, a Gemini, and a Stoic, bringing charisma, adaptability, and calm to the tech world.
+**Tech Voyager 🌍 | Fintech Explorer 💸 | AI Enthusiast 🤖 | Open Source Advocate 🚀**
+
+✨ **Crafting Tech Magic in Rwanda & Beyond**
+
+Simplified tech, turning big ideas into everyday magic effortlessly. Navigating the vast web development cosmos, I wield a diverse toolkit of tools, with a sprinkle of humor to keep things light.
+
+🔍 **Digital Alchemist**
+
+Making tech feel like a breeze, turning digital puzzles into smooth solutions.
+
+💡 **Fintech Pioneer**
+
+Reshaping finance in Africa with small keystrokes for big changes. Adding a touch of Rwanda's innovation to the global fintech landscape.
+
+🤖 **AI Enthusiast**
+
+Passionate about Artificial Intelligence, exploring realms like Open-CV, Deep Learning, and Generative AI. Because who said machines can't have a sense of humor too?
+
+🎓 **Always Learning & Tech Explorer**
+
+Guiding through the tech journey with unicorn vibes, occasional open-source contributions, and freelance support. Fun fact: A Protagonist, Gemini, and Stoic, blending charisma, adaptability, and calm into the tech world.
+
+💬 **Casual Chats Beyond Screens**
+
+Grab a coffee, unravel life's mysteries with easy conversations. By the way, did you hear the one about the coding unicorn and the debugging wizard?
+
+🌍 **Team Player in the Global Code Community**
+
+Loving the teamwork in open source projects, creating cool stuff together.
+
+🌐 **Ready for Tech Adventures**
+
+Here to infuse tech magic into your project effortlessly.
+
+🚀 **Join the Journey of Tech, Fintech, and AI Possibilities Across Rwanda & Beyond!** Because, let's be real, Africans are tech wizards too! ✌️
 </p>
 
 <h3 align="center">Let's Connect!</h3>
