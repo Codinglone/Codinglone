@@ -40,7 +40,7 @@ Here to infuse tech magic into your project effortlessly.
 🚀 **Join the Journey of Tech, Fintech, and AI Possibilities Across Rwanda & Beyond!** Because, let's be real, Africans are tech wizards too! ✌️
 </p>
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="center">Get In Touch!</h3>
 
 <p align="center">I'd love to connect with you and discuss anything related to software development, web/mobile app development, or your project requirements. Please schedule a meeting with me using the link below:</p>
 
