@@ -2,7 +2,7 @@
 
 **Tech Voyager 🌍 | Fintech Explorer 💸 | AI Enthusiast 🤖 | Stoic Commander 🛡️**
 
-I am a dedicated full-stack software engineer with four years of hands-on experience and the discipline to sustain 14-hour workdays ⏰. Based in Rwanda 🇷🇼, I design and deliver reliable, scalable systems by translating complex business requirements and AI workflows into production-ready code 💻.
+I am a dedicated full-stack software engineer with five years of hands-on experience and the discipline to sustain 14-hour workdays ⏰. Based in Rwanda 🇷🇼, I design and deliver reliable, scalable systems by translating complex business requirements and AI workflows into production-ready code 💻.
 
 - **Full-Stack Development** 🖥️🧑‍💻: Expertise in React ⚛️, TypeScript 🎨, Node.js 🟢, Java/Quarkus ☕  and C ⚙️
 - **Infrastructure & APIs** ☁️🔧: Architecting microservices with FastAPI 🐍, Docker 🐳, RabbitMQ 🐇, PostgreSQL 🐘, MongoDB 🍃, AWS, and CI/CD 🔄  
