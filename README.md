@@ -1,6 +1,6 @@
 # 👋 Hi, I’m NIYOKWIZERWA Fabrice
 
-I’m a full-stack engineer based in Rwanda, building software that’s meant to be scalable, reliable, and actually work (most of the time 😅).
+I’m a full-stack engineer, building software that’s meant to be scalable, reliable, and actually work (most of the time 😅).
 
 I work across the stack—from clean, usable interfaces to solid backend systems—and I like turning ideas into end-to-end products that run in the real world.
 
