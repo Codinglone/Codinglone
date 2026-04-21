@@ -61,7 +61,3 @@ I like:
 - building things that might not work on the first try (or second 😄)  
 
 ---
-
-## 📫
-
-GitHub: https://github.com/Codinglone
