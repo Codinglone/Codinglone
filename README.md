@@ -1,6 +1,6 @@
 # 👋 Hi, I’m NIYOKWIZERWA Fabrice
 
-I’m a full-stack AI/Software engineer, building software that’s meant to be scalable, reliable, and actually work (most of the time 😅).
+I’m a full-stack AI/Software engineer, building software and AI systems that’s meant to be scalable, reliable, and actually work (most of the time 😅).
 
 I work across the stack—from clean, usable interfaces to solid backend systems—and I like turning ideas into end-to-end products that run in the real world.
 
