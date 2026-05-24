@@ -1,63 +1,23 @@
-# 👋 Hi, I’m NIYOKWIZERWA Fabrice
+### **Fabrice Niyokwizerwa | Software Engineer (AI Data Infrastructure)**
 
-I’m a full-stack AI/Software engineer, building software and AI systems that’s meant to be scalable, reliable, and actually work (most of the time 😅).
+I build high-performance software and scalable infrastructure for AI data collection. I specialize in bridging the gap between high-level application requirements and low-level systems engineering, ensuring that data pipelines are reliable, performant, and capable of operating at scale.
 
-I work across the stack—from clean, usable interfaces to solid backend systems—and I like turning ideas into end-to-end products that run in the real world.
+**Core Technical Stack**
 
-Outside of work, I spend a lot of time experimenting with AI systems, distributed systems, and low-level code. I also contribute to open-source projects when something interesting catches my attention (which happens often enough that sleep becomes optional).
+* **Systems Engineering:** Rust, C, Linux Internals, Concurrency
+* **Data Infrastructure:** Distributed Systems, High-Throughput Pipelines, Scalable Backend Design
+* **Full-Stack:** Python, TypeScript, FastAPI, Quarkus
+* **Engineering Focus:** Performance Optimization, Memory Management, Networking
 
----
+**What I Bring**
 
-## 🧭 What I care about
+* **Systems-First Engineering:** A relentless focus on how software interacts with hardware to maximize data throughput and minimize latency in collection environments.
+* **Full-Cycle Delivery:** Proven experience architecting and maintaining production-grade data ingestion systems that handle the demands of modern AI training.
+* **Rapid Iteration:** I specialize in high-velocity prototyping, diagnosing complex system bottlenecks, and re-architecting for stability under heavy, concurrent loads.
 
-I’m especially interested in:
-- Building full-stack systems that are simple but scalable  
-- Understanding how things work under the hood (OS, networking, memory)  
-- AI systems and practical applications of LLMs  
-- Low-level programming and performance-focused engineering  
-- Distributed systems and backend architecture  
-
----
-
-## 🧪 How I work
-
-I tend to learn by building first, then figuring things out properly after.
-
-That usually looks like:
-- trying to build something before fully understanding it  
-- breaking it  
-- fixing it  
-- then rebuilding it better  
-
-It’s not always efficient, but it works.
+**Current Focus**
+Advancing my work in systems programming and distributed architectures to optimize AI data pipelines. I am currently building tooling designed to improve efficiency, reduce latency, and ensure the reliability of massive-scale data collection.
 
 ---
 
-## 🔥 Current focus
-
-Right now I’m exploring:
-- systems programming (Rust, C)
-- backend engineering at scale
-- AI-powered systems and pipelines
-- real-time and distributed systems design
-
----
-
-## 🛠️ Tech stack
-
-- Languages: Rust, C, Python, Java, TypeScript  
-- Backend: FastAPI, Quarkus  
-- Systems: Linux, networking, concurrency  
-- AI: LLMs, RAG systems, inference workflows  
-
----
-
-## 🚀 Outside of code
-
-I like:
-- tinkering with low-level systems  
-- experimenting with AI ideas  
-- breaking things just to understand them  
-- building things that might not work on the first try (or second 😄)  
-
----
+**Would you like to include a bullet point specifically highlighting your work on data collection systems at Digital Umuganda?**
