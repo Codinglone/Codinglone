@@ -6,7 +6,7 @@ I build high-performance software and scalable infrastructure for AI data collec
 
 * **Systems Engineering:** Rust, C, Linux Internals, Concurrency
 * **Data Infrastructure:** Distributed Systems, High-Throughput Pipelines, Scalable Backend Design
-* **Full-Stack:** Python, TypeScript, FastAPI, Quarkus
+* **Full-Stack:** Python, TypeScript, FastAPI, Quarkus, React/NextJS
 * **Engineering Interests:** AI Systems, Performance Optimization, Memory Management, Networking
 
 **What I Bring**
@@ -17,4 +17,4 @@ I build high-performance software and scalable infrastructure for AI data collec
 * **Rapid Iteration:** I specialize in high-velocity prototyping, diagnosing complex system bottlenecks, and re-architecting for stability.
 
 **Current Focus**
-Advancing my work in systems programming and distributed architectures. I am currently building tooling designed to optimize efficiency and ensure the data integrity of massive-scale AI collection pipelines.
+Advancing my work in systems programming and distributed architectures. I am currently building tooling designed to optimize efficiency and ensure the data integrity of massive-scale AI pipelines.
