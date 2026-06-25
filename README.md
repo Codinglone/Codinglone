@@ -18,7 +18,3 @@ I build high-performance software and scalable infrastructure for AI data collec
 
 **Current Focus**
 Advancing my work in systems programming and distributed architectures. I am currently building tooling designed to optimize efficiency and ensure the data integrity of massive-scale AI pipelines.
-
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/64e46bd4-7f14-44ae-8c34-654e6521cfeb/thumbnail" height="65" width="125" >
-</p>
