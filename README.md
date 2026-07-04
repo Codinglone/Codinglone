@@ -11,7 +11,7 @@ I build high-performance software and scalable infrastructure for AI data collec
 
 **What I Bring**
 
-* **AI Infrastructure Expertise:** Currently at **Digital Umuganda**, where I design and maintain robust data collection systems that drive large-scale AI training.
+* **AI Infrastructure Expertise:** Currently at [**Digital Umuganda**](https://digitalumuganda.com) (urlhttps://digitalumuganda.com, where I design and maintain robust data collection systems that drive large-scale AI training.
 * **Systems-First Engineering:** A relentless focus on how software interacts with hardware to maximize data throughput and minimize latency in high-demand environments.
 * **Full-Cycle Delivery:** Proven experience architecting and scaling production-grade ingestion systems that reliably handle heavy, concurrent loads.
 * **Rapid Iteration:** I specialize in high-velocity prototyping, diagnosing complex system bottlenecks, and re-architecting for stability.
